@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap'); 
+ 
+ 
+ * {
+	 font-family: "Noto Sans", sans-serif;
+ }
+ a{
+	color:white;
+	text-decoration:none;
+}
+.d{
+	background-color:skyblue;
+	border-bottom-left-radius:25px;
+	padding-bottom:1px;
+	padding-top:5px;
+}
+.main{
+	color:white;
+	font-size:28px;
+	margin-left:15px;
+	margin-top:5px;
+}
+.di{
+	text-align:right;
+	margin:10px;
+	font-size:18px;
+	margin-right:40px;
+	
+}
+.alag{
+	margin:40px;
+}
+.photo{
+	text-align:center;
+}
+h1{
+	text-align:center;
+	font-size:30px;
+	margin:30px;
+}
+.name{
+	color:skyblue;
+	font-weight:5px;
+}
+
+.hobby{
+	text-align:center;
+	font-size:18px;
+    font-weight:400;
+}
+
+.jankari{
+	text-align:center;
+	background-color:#F0F0F0;
+	padding:30px;
+	margin-top:75px;
+	margin-bottom:75px;
+	padding-top:10px;
+}
+
+.sajawat{
+	font-size:18px;
+    font-weight:400;
+	text-align:justify;
+}
+
+.sajawati{
+	font-size:18px;
+    font-weight:400;
+	text-align:justify;
+}
+
+.s1{
+	font-size:20px;
+	color: skyblue;
+}
+.s2{
+	font-size:20px;
+	color: skyblue;
+}
+h2{
+	margin:40px;
+	margin-bottom:50px;
+	font-size:23px;
+}
+
+.line{
+	text-align:justify;
+	font-size:18px;
+}
+.align{
+	width:550px;
+	margin:auto;
+}
+
+.hi{
+	font-size:20px;
+    font-weight:400;
+}
+.praject{
+	text-align:center;
+	font-weight:200;
+}
+.ctrl{
+	background-color:skyblue;
+	padding:7px;
+	margin:5px;
+	padding-top:4px;
+	padding-bottom:5px;
+	font-size:18px;
+}
+.kyu{
+	padding-bottom:10px;
+}
+h3{
+	font-size:23px;
+}
+.hi{
+	
+}
+.blag{
+	text-align:center;
+	background-color:#F0F0F0;
+	padding:30px;
+	margin-top:75px;
+	padding-top:10px;
+	padding-bottom:50px;
+	margin-bottom:50px;
+}
+
+.gadi{
+	font-size:18px;
+    font-weight:400;
+}
+h4{
+	font-size:23px;
+}
+.akhri{
+	text-align:center;
+	background-color:skyblue;
+	padding:30px;
+	margin-bottom:75px;
+	padding-top:10px;
+	color:white;
+	border-top-right-radius:25px;
+}
+h5{
+	font-size:23px;
+	margin:10px;
+	margin-bottom:5px;
+	padding-top:25px;
+}
+.shift{
+	font-size:18px;
+	margin:20px;
+	margin-top:20spx;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
